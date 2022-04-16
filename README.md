@@ -4,17 +4,15 @@ Wuweido is a professional 3D CAD dedicated on mobile. More than just a viewer, d
 
 Follow Us:
 
-Home Page: http://www.wuweido.com
+Home Page: http://www.mozongsoft.com
 
 Get it on Google Play for free: https://play.google.com/store/apps/details?id=com.wuweido.cad
 
-YouTube: https://www.youtube.com/channel/UCyXRxs3xNk1CS2QfdxQJVvA
+YouTube: https://www.youtube.com/mozongsoft
 
-Twetter: https://twitter.com/wuweido_com
+Twetter: https://twitter.com/mozongsoft
 
-LinkedIn: https://www.linkedin.com/company/wuweido-com
-
-Weibo: https://weibo.com/wuweido
+LinkedIn: https://www.linkedin.com/company/mozongsoft
 
 Modeling Features:
 
