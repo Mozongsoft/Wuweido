@@ -6,7 +6,13 @@ Follow Us:
 
 Home Page: http://www.mozongsoft.com
 
-Get it on Google Play for free: https://play.google.com/store/apps/details?id=com.wuweido.cad
+Get Wuweido on Google Play for free: https://play.google.com/store/apps/details?id=com.wuweido.cad
+
+Get Wuweido from Apple Store: https://apps.apple.com/app/id1470242832
+
+Get Wuweido from Amazon App Store: https://www.amazon.com/gp/product/B07RNKM5R3
+
+Get Wuweido from Windows App Store: https://www.microsoft.com/store/apps/9PNNM0D5S0QF
 
 YouTube: https://www.youtube.com/mozongsoft
 
